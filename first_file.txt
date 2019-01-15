@@ -1,0 +1,1 @@
+Hi there, this repo has emojis in commit messages.
